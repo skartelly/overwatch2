@@ -1,6 +1,4 @@
-## **## Readme.md Sugerido**
-
-**Overwatch 2 Hero Search**
+## **Overwatch 2 Hero Search - Imersão Dev com Google Gemini**
 
 **Descrição:**
 Uma aplicação web simples para pesquisar por heróis do jogo Overwatch 2. Ao digitar o nome de um herói, a aplicação retorna informações detalhadas sobre o personagem, incluindo pontos fortes, fracos, sinergias e counters.
